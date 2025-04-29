@@ -30,7 +30,7 @@ export const Projects = () => {
       link: "https://www.behance.net/gallery/214585937/ElderEase-Elder-Care-App-with-Intuitive-UIUX-Design"
     },
     {
-      title: "Business Startup",
+      title: "Chat App",
       description: "UI/UX Design",
       imgUrl: projImg3,
       link: "https://www.behance.net/gallery/222852683/Tourmate-Car-Rental-App-UIUX-Case-Study"
